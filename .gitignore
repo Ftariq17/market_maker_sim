@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# PyCharm
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
